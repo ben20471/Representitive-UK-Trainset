@@ -1,0 +1,737 @@
+##grflangid 0x01
+
+STR_GRF_NAME	:Representative UK Train Set - RUKTS
+STR_GRF_DESC	:{GOLD}A representative collection of various UK trains! Graphics drawn by and coded by {RED}UnholyPhish {GOLD}and {PURPLE}Gwyd{GOLD}.
+
+STR_PARAM_COLOURSCHEME_NAME			:Real livery colours
+STR_PARAM_COLOURSCHEME_DESC			:Use real life colours instead of company colours
+
+STR_PARAM_WAGONCOLOURS_NAME			:Wagons use real colours
+STR_PARAM_WAGONCOLOURS_DESC			:Non-passenger carrying wagons will use real life colours instead of company colours.
+
+STR_PARAM_LIVERY_CHOICE_NAME		:Choose liveries manually
+STR_PARAM_LIVERY_CHOICE_DESC		:Liveries are chosen through the cargo refit menu instead of them changing depending on year
+
+STR_PARAM_ALT_NAMES_NAME			:Use class names
+STR_PARAM_ALT_NAMES_DESC			:Use the names of the classes of train instead of the manufacturers name.
+
+STR_PARAM_PURCHASE_COST				:Purchase cost factor
+STR_PARAM_PURCHASE_COST_DESC		:Changes the cost of purchasing new trains from this GRF
+STR_PARAM_RUNNING_COST				:Running cost factor
+STR_PARAM_RUNNING_COST_DESC			:Changes the running cost of trains from this GRF
+
+STR_PARAM_LOW						:1/2
+STR_PARAM_MEDIUM					:Normal
+STR_PARAM_HIGH						:2x
+STR_PARAM_TOOMUCH					:4x
+
+STR_PARAM_PURCHASE_LIST_SORT_NAME	:Sort by Class numbers
+STR_PARAM_PURCHASE_LIST_SORT_DESC	:Sort the purchase list by TOPS Class numbers instead of the classic sort
+
+STR_PARAM_PROTOTYPES				:Prototype vehicles
+STR_PARAM_PROTOTYPES_DESC			:Enable trains that never went into full production (e.g. the Class 210 or the Class 370 "APT"). 
+
+STR_SOUND_CONTROL					:Sound effects
+STR_SOUND_CONTROL_DESC				:Select the types of sounds used by trains in this set
+
+STR_PARAM_NONE						:No running sounds
+STR_PARAM_DEFAULT					:Default running sounds
+STR_PARAM_CUSTOM					:Fully replaced running sounds
+
+
+STR_PARAM_VEH_SELEC_NAME         		 	:Vehicle selection
+STR_PARAM_VEH_SELEC_DESC         		 	:Choose the selection of vehicles that will appear in game. Minimal reduces the purchase list to a basic list of vehicles, Extended includes some extras that are extensions to the normal set.
+STR_PARAM_VEH_SELEC_CHOICE_ONE   		 	:Minimal
+STR_PARAM_VEH_SELEC_CHOICE_TWO   		 	:Limited
+STR_PARAM_VEH_SELEC_CHOICE_THREE 		 	:Normal
+STR_PARAM_VEH_SELEC_CHOICE_FOUR  		 	:Extended
+
+STR_PARAM_STEAM_SELEC_NAME         		 	:Steam era vehicle selection
+STR_PARAM_STEAM_SELEC_DESC         		 	:Choose the selection of steam locomotives that will appear in game. Limited reduces the purchase list to a basic list of steam locomotives, Kettle Enthusiast includes some extras that are extensions to the normal set.
+STR_PARAM_STEAM_SELEC_CHOICE_ONE   		 	:Limited
+STR_PARAM_STEAM_SELEC_CHOICE_TWO   		 	:Normal
+STR_PARAM_STEAM_SELEC_CHOICE_THREE 		 	:Tea Enjoyer
+STR_PARAM_STEAM_SELEC_CHOICE_FOUR  		 	:Kettle Enthusiast
+
+
+STR_BLUE_SQUARE					 			:{BLUE}Blue Square Coupling Compatibility
+
+
+STR_LIVER_COMP_COLOURS						: Company colours
+STR_LIVER_COMP_COLOURS_A					: Company colours (Mark 2a)
+STR_LIVER_COMP_COLOURS_F					: Company colours (Mark 2f)
+
+
+STR_170										:(Class 170)
+STR_172										:(Class 172)
+STR_444							 			:(Class 444)
+STR_450							 			:(Class 450)
+STR_700							 			:(Class 700)
+STR_707							 			:(Class 707)
+STR_717							 			:(Class 717)
+STR_LIVERY_ABELLIO_GREATER_ANGLIA			: Abellio Greater Anglia
+STR_LIVERY_AGGREGATES						: Aggregates Industries
+STR_LIVERY_ANGLIA_RAIL						: Anglia Railways
+STR_LIVERY_ARC								: ARC
+STR_LIVERY_ARRIVA_XC			 			: Arriva Cross Country
+STR_LIVERY_ATW                   			: Arriva Trains Wales
+STR_LIVERY_ATW_EXEC              			: Arriva Trains Wales {GOLD}(Executive)
+STR_LIVERY_ATW_REFURB            			: Arriva Trains Wales {GOLD}(Refurbished)
+STR_LIVERY_AVANTI				 			: Avanti West Coast
+STR_LIVERY_AVON								: Avonside {GOLD}(Trojan)
+STR_LIVERY_BARRIER							: Barrier Coach {GOLD}(Blue)
+STR_LIVERY_BLUE_PULLMAN						: Blue Pullman
+STR_LIVERY_BOURNEMOUTH						: 73235 SWR Blue "71B"
+STR_LIVERY_BRBLUE				 			: British Railways {GOLD}(Blue)
+STR_LIVERY_BRBLUE_HALF_YELLOW				: British Railways {GOLD}(Blue with Small Yellow Panel)
+STR_LIVERY_BRBLUEGREY			 			: British Railways {GOLD}(Blue and Grey)
+STR_LIVERY_BRBLUEGREY_REFURB	 			: British Railways {GOLD}(Refurbished Blue and Grey)
+STR_LIVERY_BRBLUE_LOGO           			: British Railways Large Logo {GOLD}(Blue)
+STR_LIVERY_BRBLUE_REFURB_DMU	 			: British Railways Blue {GOLD}(Refurbished White & Blue)
+STR_LIVERY_BRBLUE_SPT			 			: British Railways Strathclyde Partnership for Transport
+STR_LIVERY_BRBLUE_SUBTYPE		 			: British Railways Blue {STRING}
+STR_LIVERY_BRELECTRIC            			: British Railways {GOLD}(Electric Blue)
+STR_LIVERY_BRGREEN               			: British Railways {GOLD}(Green)
+STR_LIVERY_BRGREEN_YELLOW        			: British Railways {GOLD}(Green with Yellow Panel)
+STR_LIVERY_BRGREEN_HALF_YELLOW        		: British Railways {GOLD}(Green with Small Yellow Panel)
+STR_LIVERY_BRRAILFREIGHT_LOGO    			: British Railways Large Logo {GOLD}(Railfreight Grey)
+STR_LIVERY_BR_BLACK							: British Railways {GOLD}(Black)
+STR_LIVERY_BR_BRUNSWICK						: British Railways {GOLD}(Brunswick Green)
+STR_LIVERY_BR_NAVY							: British Railways {GOLD}(Navy)
+STR_LIVERY_BR_SAND							: British Railways {GOLD}(Desert Sand)
+STR_LIVERY_BR_SCOTRAIL           			: Scotrail
+STR_LIVERY_BSC                   			: British Steel Corporation
+STR_LIVERY_C2C					 			: c2c
+STR_LIVERY_C2C_NX				 			: c2c {GOLD}(National Express)
+STR_LIVERY_CAL_SLEEPER			 			: Caledonian Sleeper
+STR_LIVERY_CENTRAL               			: Central Trains
+STR_LIVERY_CENTRAL_EX_M           			: Central Trains (Ex-MML)
+STR_LIVERY_CHILTERN				 			: Chiltern Railways
+STR_LIVERY_CHILTERN_0				 		: Chiltern Railways {GOLD}(168/0)
+STR_LIVERY_CHILTERN_G						: Chiltern Railways {GOLD}(Grey)
+STR_LIVERY_CHOCOLATE_CREAM		 			: British Railways "Chocolate"
+STR_LIVERY_CIVIL_ENGINEERS					: Civil Engineer's "Dutch"
+STR_LIVERY_COLAS				 			: Colas Rail
+STR_LIVERY_CONNEX				 			: Connex
+STR_LIVERY_COTSWOLD							: Cotswold Rail {GOLD}(Grey)
+STR_LIVERY_CRIMSON_CREAM		 			: British Railways "Crimson"
+STR_LIVERY_DBCARGO               			: DB Cargo UK
+STR_LIVERY_DBCARGO_GREEN           			: DB Cargo UK {GOLD}("Climate Hero" Green)
+STR_LIVERY_DBSCHENKER            			: DB Schenker Rail UK
+STR_LIVERY_DCR_GREEN						: Devon & Cornwall Railways {GREEN}(Green)
+STR_LIVERY_DCR_GREY							: Devon & Cornwall Railways {GREEN}(Grey)
+STR_LIVERY_DRS					 			: Direct Rail Services
+STR_LIVERY_DRS_COLD				 			: Tesco {GOLD}(Less CO2 Rail)
+STR_LIVERY_DRS_COMPASS           			: Direct Rail Services {GOLD}(Compass)
+STR_LIVERY_DRS_NTS           				: Direct Rail Services {GOLD}(NTS)
+STR_LIVERY_ELIZABETH_LINE      				: Elizabeth Line
+STR_LIVERY_EMR                   			: East Midland Railway
+STR_LIVERY_EMT                   			: East Midlands Trains
+STR_LIVERY_ESCS								: East Coast
+STR_LIVERY_EUROSTAR							: Eurostar{GOLD}(Original)
+STR_LIVERY_EUROSTAR_NEW						: Eurostar
+STR_LIVERY_EWS                   			: English, Welsh & Scottish {GOLD}(EWS)
+STR_LIVERY_FASTLINE							: Fastline
+STR_LIVERY_FCC  	             			: First Capital Connect
+STR_LIVERY_FGE					 			: First Great Eastern
+STR_LIVERY_FIRST_BARBIE          			: First Great Western {GOLD}(Barbie) {STRING}
+STR_LIVERY_FIRST_FAG             			: First Great Western {GOLD}(Fag) {STRING}
+STR_LIVERY_FIRST_FGW             			: First Great Western {GOLD}(Corporate Blue) {STRING}
+STR_LIVERY_FIRST_GBRF					 	: First GBRf
+STR_LIVERY_FIRST_GWR             			: Great Western Railway {STRING}
+STR_LIVERY_FIRST_PLAIN						: First Great Western {GOLD}(Plain Blue)
+STR_LIVERY_FIRST_SCOTRAIL					: Scotrail (First)
+STR_LIVERY_FIRST_SCOT_RAIL       			: First Scot Rail {STRING}
+STR_LIVERY_FIRST_TPE             			: First TransPennine Express
+STR_LIVERY_FRAGONSET						: Fragonset
+STR_LIVERY_FREIGHTLINER          			: Freightliner
+STR_LIVERY_FREIGHTLINER_ORANGE				: Freightliner {GOLD}(G&W Orange)
+STR_LIVERY_FREIGHTLINER_PINK				: Freightliner {GOLD}(ONE Pink)
+STR_LIVERY_FREIGHTLINER_POWERHAUL			: Freightliner {GOLD}(Powerhaul)
+STR_LIVERY_GATEX				 			: Gatwick Express
+STR_LIVERY_GBRF					 			: GBRf
+STR_LIVERY_GBRF_BIFFA						: GBRf {GOLD}(Biffa Bins)
+STR_LIVERY_GBRF_CEMEX			 			: GBRf {GOLD}(Cemex)
+STR_LIVERY_GBRF_EVENINGSTAR					: GBRf {GOLD}(Evening Star)
+STR_LIVERY_GBRF_GREY			 			: GBRf {GOLD}(Grey)
+STR_LIVERY_GBRF_LARGELOGO					: GBRf {GOLD}(BR Large Logo)
+STR_LIVERY_GBRF_SECTORS						: GBRf {GOLD}(BR Railfreight)
+STR_LIVERY_GC								: Grand Central {GOLD}(Gold Stripe)
+STR_LIVERY_GC_OG							: Grand Central {GOLD}(Original)
+STR_LIVERY_GIF					 			: GIF {GOLD}(Light Blue)
+STR_LIVERY_GNER								: Great North Eastern Railway
+STR_LIVERY_GN_STR				 			: Great Northern {STRING}
+STR_LIVERY_GREATER_ANGLIA					: Greater Anglia
+STR_LIVERY_GTR					 			: GTR {GOLD}(Thameslink/Great Northern)
+STR_LIVERY_GWR								: Great Western Railway
+STR_LIVERY_GWR_STRING						: Great Western Railway {STRING}
+STR_LIVERY_GW_HOLDINGS						: Great Western Holdings
+STR_HALF_UNIT					 			:(Half Unit)
+STR_LIVERY_HEATHROW_EMR						: Heathrow Express (EMR)
+STR_LIVERY_HEATHROW_EXPRESS					: Heathrow Express
+STR_LIVERY_HEATHROW_EXPRESS1				: Heathrow Express (Forward)
+STR_LIVERY_HEATHROW_EXPRESS2				: Heathrow Express (Backward)
+STR_LIVERY_HERITAGE_GWR						: Great Western Railway {GOLD}(43002 & 43185 Heritage Livery)
+STR_LIVERY_HERITAGE_LNER					: LNER {GOLD}(43102 Heritage Livery)
+STR_LIVERY_HERITAGE_XC						: Arriva Cross Country {GOLD}(253051 Heritage Livery)
+STR_LIVERY_HITACHI							: Hitachi
+STR_LIVERY_HNRC					 			: HNRC {GOLD}(Orange & White)
+STR_LIVERY_HNRC_NEW					 		: HNRC {GOLD}(Orange)
+STR_LIVERY_HORNBY							: Cotswold Rail {GOLD}(Hornby)
+STR_LIVERY_INTERCITY			 			: Intercity
+STR_LIVERY_INTERCITY_SLEEPER				: Intercity {BLACK}(Sleeper)
+STR_LIVERY_INTERCITY_SWL		 			: Intercity {GOLD}(Swallow)
+STR_LIVERY_INTERCITY_VTEC		 			: Intercity {GOLD}(Virgin Trains DVT)
+STR_LIVERY_INTERCITY_YELLOW		 			: Intercity {GOLD}(Yellow Front)
+STR_LIVERY_LBSCR							: London, Brighton & South Coast Railway
+STR_LIVERY_LMS								: London, Midland & Scotland
+STR_LIVERY_LMS_BLUE							: London, Midland & Scotland {GOLD}(Blue)
+STR_LIVERY_LMS_SMOOTH						: London, Midland & Scotland {GOLD}(Streamlined)
+STR_LIVERY_LNER								: LNER
+STR_LIVERY_LNER_1923						: London & North Eastern Railway
+STR_LIVERY_LO								: London Overground
+STR_LIVERY_LOADHAUL							: Loadhaul
+STR_LIVERY_LON								: London Overground (Revised Livery)
+STR_LIVERY_LONDON_MIDLAND		 			: London Midland
+STR_LIVERY_LONDON_MIDLAND_STRING 			: London Midland {STRING}
+STR_LIVERY_JAFFA_CAKE			 			: London & South East {GOLD}"Jaffa Cake"
+STR_LIVERY_LTS					 			: LTS Rail
+STR_LIVERY_MAROON				 			: British Railways Maroon
+STR_LIVERY_MAROON_LINED			 			: British Railways Maroon {GOLD}(Lined)
+STR_LIVERY_MENDIP							: Mendip Rail
+STR_LIVERY_MERSEYRAIL			 			: Merseyrail
+STR_LIVERY_MERSEYRAIL_REFERB	 			: Merseyrail {GOLD}(Refurbished)
+STR_LIVERY_MIDLAND_MAINLINE_BLUE 			: Midland Mainline {GOLD}(Blue)
+STR_LIVERY_MIDLAND_RAILWAY					: Midland Railway {GOLD}(Green)
+STR_LIVERY_MIDLAND_RAILWAY_LATE				: Midland Railway {GOLD}(Red)
+STR_LIVERY_MML								: Midland Mainline
+STR_LIVERY_MML_TEAL							: Midland Mainline {GOLD}(Teal)
+STR_LIVERY_NCB                   			: National Power
+STR_LIVERY_NETWORK_RAIL          			: Network Rail Yellow
+STR_LIVERY_NORTHERN              			: Northern Rail
+STR_LIVERY_NORTHERN_ARRIVA       			: Northern {GOLD}(Arriva)
+STR_LIVERY_NSE					 			: Network South East
+STR_LIVERY_NSG					 			: Network South East {GOLD}(Grey)
+STR_LIVERY_NSW					 			: Network South East {GOLD}(White)
+STR_LIVERY_NS_DUTCH							: Nederlandse Spoorwegen
+STR_LIVERY_NXEA								: National Express East Anglia
+STR_LIVERY_NXEC								: National Express East Coast
+STR_LIVERY_NX_SCOTRAIL						: Scotrail (National Express)
+STR_LIVERY_N_SPIRIT              			: Northern Spirit
+STR_LIVERY_ONE_ANGLIA			 			: One Anglia
+STR_LIVERY_OVERGROUND						: London Overground
+STR_LIVERY_POLICE							: Police
+STR_LIVERY_PULLMAN							: Pullman
+STR_LIVERY_RAILFREIGHT           			: Railfreight Two-Tone Grey
+STR_LIVERY_RAILFREIGHT2						: Railfreight
+STR_LIVERY_RAILFREIGHT3						: Railfreight {GOLD}(Red Stripe)
+STR_LIVERY_RAIL_ADVENTURE					: railadventure {GOLD}(Grey)
+STR_LIVERY_RAIL_EXPRESS          			: Rail Express Systems
+STR_LIVERY_REG_PROVINCIAL		 			: Regional Railways {GOLD}(Provincial)
+STR_LIVERY_REG_RAILWAYS			 			: Regional Railways
+STR_LIVERY_ROG_EUROPHENIX        			: Rail Operations Group {GOLD}(Europhoenix)
+STR_LIVERY_ROYAL_MAIL						: Royal Mail
+STR_LIVERY_RTC			         			: Railway Technical Centre {GOLD}(Blue & Red)
+STR_LIVERY_SCOTRAIL				 			: Scotrail "Saltire"
+STR_LIVERY_SCOTRAIL_7C			 			: Scotrail "Seven Cities"
+STR_LIVERY_SCR					 			: Stagecoach Rail
+STR_LIVERY_SE_BLUE				 			: Southeastern {GOLD}(Blue)
+STR_LIVERY_SE_REFURB			 			: Southeastern {BLUE}(Refurbished)
+STR_LIVERY_SE_REFURB_STR		 			: Southeastern {BLUE}(Refurbished) {STRING}
+STR_LIVERY_SE_YELLOW			 			: Southeastern {GOLD}(Yellow)
+STR_LIVERY_SE_YELLOW_GREY		 			: Southeastern {GOLD}(Yellow with Stripe)
+STR_LIVERY_SILVERLINK	         			: Silverlink
+STR_LIVERY_SNCF								: SNCF
+STR_LIVERY_SOUTHERN	             			: Southern
+STR_LIVERY_SOUTHERN_RAILWAY					: Southern Railway
+STR_LIVERY_SOUTHERN_RAILWAY_DEFLECTORS		: Southern Railway {GOLD}(Smoke deflectors)
+STR_LIVERY_SOUTHERN_RAILWAY_LINED			: Southern Railway {GOLD}(Lined Green)
+STR_LIVERY_SPT_CARMINE_CREAM	 			: Strathclyde Partnership for Transport {GOLD}(Carmine & Cream)
+STR_LIVERY_SPT_ORANGE			 			: Strathclyde Partnership for Transport {GOLD}(Orange) 
+STR_LIVERY_STANSTEAD						: Stanstead Express
+STR_LIVERY_STOBART					 		: Stobart Rail
+STR_LIVERY_ST_PIRAN							: 08645 "St Piran"
+STR_LIVERY_SWR					 			: South Western Railway
+STR_LIVERY_SWR_STR				 			: South Western Railway {STRING}
+STR_LIVERY_SWT					 			: South West Trains
+STR_LIVERY_EX_SWT					 		: Connex {GOLD}(Ex-South West Trains)
+STR_LIVERY_SWT_HERITAGE			 			: South West Trains {GOLD}(Heritage)
+STR_LIVERY_SWT_REFURB			 			: South West Trains (Refurbished)
+STR_LIVERY_SWT_STR				 			: South West Trains {STRING}
+STR_LIVERY_TFL					 			: TfL Rail
+STR_LIVERY_TFW                   			: Transport for Wales
+STR_LIVERY_THAMESLINK            			: Thameslink
+STR_LIVERY_THAMESLINK_STR       			: Thameslink {STRING}
+STR_LIVERY_THAMES_TRAINS					: Thames Trains
+STR_LIVERY_TLB		   		     			: Thameslink Blue
+STR_LIVERY_TPE_NEW				 			: TransPennine Express
+STR_LIVERY_VIRGIN_TRAINS		 			: Virgin Trains
+STR_LIVERY_VIRGIN_TRAINS_BLANK	 			: Virgin Trains {GOLD}(Plain White)
+STR_LIVERY_VIRGIN_TRAINS_FAKE	 			: Virgin Trains {GOLD}(Pretendolino)
+STR_LIVERY_VIRGIN_TRAINS_SILK	 			: Virgin Trains {GOLD}(Silk)
+STR_LIVERY_VTEC								: Virgin Trains East Coast
+STR_LIVERY_VTEC_LNER						: Virgin Trains East Coast/LNER
+STR_LIVERY_WAGN		             			: West Anglia Great Northern
+STR_LIVERY_WCRC					 			: West Coast Railway Company
+STR_LIVERY_WESSEX_TRAINS					: Wessex Trains
+STR_LIVERY_WEST_MIDLANDS_RAILWAY 			: West Midlands Railway
+STR_LIVERY_WEST_MIDLANDS_RAILWAY_STRING		: West Midlands Railway {STRING}
+STR_LIVERY_WYPTE				 			: West Yorkshire Passenger Transport Executive
+STR_LIVERY_YEOMAN							: Foster Yeoman
+
+
+STR_LIVERY_FICTIONAL						: {RED}(Fictional){BLACK}{STRING}
+STR_LIVERY_LINED							:{GOLD}(Lined)
+
+
+STR_LIVERY_142_REG_RAILWAYS			 		: Regional Railways {BLACK}(Class 142)
+STR_LIVERY_142_REG_PROVINCIAL		 		: Regional Railways {GOLD}(Provincial) {BLACK}(Class 142)
+STR_LIVERY_142_MERSEYRAIL			 		: Merseyrail {BLACK}(Class 142)
+STR_LIVERY_142_VALLEY_LINES					: Valley Lines {BLACK}(Class 142)
+STR_LIVERY_142_ATW                   		: Arriva Trains Wales {BLACK}(Class 142)
+STR_LIVERY_142_ATN                   		: Arriva Trains Northern {BLACK}(Class 142)
+STR_LIVERY_142_NORTHERN              		: Northern Rail {BLACK}(Class 142)
+STR_LIVERY_142_N_SPIRIT              		: Northern Spirit {BLACK}(Class 142)
+
+STR_LIVERY_143_REG_RAILWAYS			 		: Regional Railways {BLACK}(Class 143)
+STR_LIVERY_143_REG_PROVINCIAL		 		: Regional Railways {GOLD}(Provincial) {BLACK}(Class 143)
+STR_LIVERY_143_MERSEYRAIL			 		: Merseyrail {BLACK}(Class 143)
+STR_LIVERY_143_VALLEY_LINES					: Valley Lines {BLACK}(Class 143)
+STR_LIVERY_144_NORTHERN              		: Northern Rail {BLACK}(Class 144)
+STR_LIVERY_143_FGW		              		: First Great Western {BLACK}(Class 143)
+STR_LIVERY_143_FLL		              		: First Great Western {GOLD}(Local Lines){BLACK}(Class 143)
+STR_LIVERY_143_ATW                   		: Arriva Trains Wales {BLACK}(Class 143)
+STR_LIVERY_143_ATW_EXEC              		: Arriva Trains Wales {GOLD}(Executive)
+
+
+STR_LIVERY_LUL_MAROON						: London Underground {RED}(Maroon)
+STR_LIVERY_LUL_GREY							: London Underground {BLACK}(Grey)
+STR_LIVERY_LUL_ELL							: London Underground {BLACK}(East London Line)
+STR_LIVERY_LUL_72_MKII						: London Underground {BLACK}('72 grey)
+STR_LIVERY_LUL_72_STRAND					: London Underground {BLACK}(Strand)
+STR_LIVERY_LUL_73							: London Underground {BLACK}('73 grey)
+STR_LIVERY_LUL_73_CORP						: London Underground {GOLD}('73 corporate)
+STR_LIVERY_LUL_CORP							: London Underground {GOLD}(Corporate)
+STR_LIVERY_LUL_DEP							: London Underground {GOLD}(Departmental)
+
+STR_LIVERY_WARNING_SMALL					: {STRING} {GOLD}(Warning Panel)
+STR_LIVERY_WARNING_LARGE					: {STRING} {GOLD}(Yellow Front)
+
+STR_LIVERY_SLEEPER              :{BLACK}(Sleeper)
+STR_LIVERY_MOTORAIL				:{BLACK}(Motorail)
+STR_LIVERY_EMPTY	            : 
+STR_LIVERY_WHITE_CAB			:{BLACK}(White cab)
+STR_SECTOR_GENERAL              :{GOLD}(General, Distribution)
+STR_SECTOR_COAL                 :{GOLD}(Coal)
+STR_SECTOR_METALS               :{GOLD}(Metals, Construction, Petroleum)
+
+STR_CONTAINER_MIXED             : Mixed
+STR_CONTAINER_SMALL             : 2 x Small containers
+STR_CONTAINER_LARGE             : 1 x Large container
+
+STR_RANDOM_COLOURS				: Random colours
+STR_RANDOM						: Random Livery
+
+STR_NAME_STROUDLEY				:Stroudley 6-Wheel Carriage
+STR_NAME_VICTORIAN				:Victorian Suburban Carriage
+STR_NAME_CLEROSTORY				:Clerestory Carriage
+STR_NAME_MAUNSELL				:Maunsell Carriage
+STR_NAME_BULLEID				:Bulleid Suburban Carriage
+STR_NAME_DBSO                   :BREL Mark 2 Driving Coach
+STR_NAME_DVT                    :BREL Driving Van Trailer
+STR_NAME_MK1					:Mark 1 Carriage
+STR_NAME_MK1_SUB				:Mark 1 Suburban Carriage
+STR_NAME_MK1_BG					:Mark 1 BG
+STR_NAME_MK1_NBA				:Mark 1 NBA
+STR_NAME_MK1_BSO				:Mark 1 Brake
+STR_NAME_MK1_RUB				:Mark 1 Restaurant Buffet
+STR_NAME_TC						:Trailer Corridor Set
+STR_NAME_MK2					:BREL Mark 2 Carriage
+STR_NAME_MK2_BRAKE				:BREL Mark 2 Brake
+STR_NAME_MK2A					:{GOLD}(Mk2a)
+STR_NAME_MK2F					:{GOLD}(Mk2f)
+STR_NAME_Mk3					:BREL Mark 3 Carriage
+STR_NAME_Mk4					:BREL Mark 4 Carriage
+STR_NAME_MU90					:Modern MU car
+STR_NAME_WAGON_A                :BR Bulk Goods Wagon
+STR_NAME_FLASK      			:Nuclear Flask Wagon
+STR_NAME_INTERMODAL             :Intermodal Container Wagon
+STR_NAME_MONSTER_BOX			:Monster Box 
+STR_NAME_MWA					:Monster Box {GOLD}(MWA)
+STR_NAME_JNA					:Monster Box {GOLD}(JNA)
+STR_NAME_ZDX					:30t Open Wagon
+STR_NAME_MTV					:Speedlink Open Wagon
+STR_NAME_RRV					:Lowmac
+STR_NAME_PXA					:Speedlink Flat Wagon
+STR_NAME_HAB					:Speedlink Habfis Van
+STR_NAME_HAZ					:Hazardous Goods Wagon
+STR_NAME_ZCO					:Wood 5 Plank Open Wagon
+STR_NAME_ZGO					:Wood 7 Plank Open Wagon
+STR_NAME_MDO					:Steel Open Wagon
+STR_NAME_MCO					:Steel Open Wagon (BR)
+STR_NAME_CGO					:Riveted Covered Hopper
+STR_NAME_CHV					:Welded Covered Hopper
+STR_NAME_HTO					:Riveted Hopper
+STR_NAME_HHA					:HHA Hopper
+STR_NAME_SSA					:Scrap Hopper
+STR_NAME_PGA					:PGA Hopper
+STR_NAME_ZZA					:ZZA Tanker
+STR_NAME_PCA					:PCA Tanker
+STR_NAME_TEA					:TEA Tanker
+STR_NAME_CUBE					:General Goods Van
+STR_NAME_QPV					:XP Luggage Van
+STR_NAME_RBX					:Speedlink Van
+STR_NAME_GUV					:General Utility Van
+STR_NAME_NTX					:Express Mail Carriage
+STR_NAME_MGR					:MGR Hopper
+STR_NAME_CDA					:MGR Covered Hopper
+STR_NAME_STEEL_TANK				:Steel Tanker
+STR_NAME_ZRV					:ZRV Tanker
+STR_NAME_UCV					:China Clay Wagon
+STR_NAME_FQA					:Cartic
+STR_NAME_POL					:Polybulk Hopper
+STR_NAME_OBA					:Log Wagon
+STR_NAME_JHA					:Aggregates Hopper
+STR_NAME_HTA					:HTA Hopper
+STR_NAME_MLV					:BR MLV (3rd rail)
+
+STR_NAME_HAA					:HAA Hopper
+STR_NAME_HDA					:HDA Hopper
+
+STR_NAME_BRAKE_GER				:10 Tonne Brake Van
+STR_NAME_BRAKE_LMS				:20 Tonne Brake Van
+
+STR_NAME_MR_1377				:0-6-0T "Half-Cab" (Steam)
+STR_NAME_MR_115					:4-2-2 "Spinner" (Steam)
+STR_NAME_LBSC_E4				:0-6-2T Billinton "Thomas" (Steam)
+STR_NAME_NELSON					:2-6-4 Maunsell "Lord" (Steam)
+STR_NAME_MERCHNAV				:2-6-4 Merchant Navy (Steam)
+STR_NAME_MERCHNAV_REBUILT		:2-6-4 Rebuilt Merchant Navy (Steam)
+STR_NAME_BULLEID_LIGHT			:2-6-4 Light Pacific (Steam)
+STR_NAME_BULLEID_LIGHT_REBUILT	:2-6-4 Rebuilt Light Pacific (Steam)
+STR_NAME_BULLEID_Q1				:0-6-0 Bulleid "Q1" (Steam)
+STR_NAME_GWR_1361				:0-6-0ST "Millbay" (Steam)
+STR_NAME_GWR_SADDLE				:0-4-0ST "Avon" (Steam)
+STR_NAME_GWR_BUFFALO			:0-6-0ST "Buffalo" (Steam)
+STR_NAME_CORONATION				:4-6-2 Coronation (Steam)
+
+STR_NAME_AL6				 :EE AL6 (Electric)
+STR_NAME_87					 :BREL 87 (Electric)
+STR_NAME_90					 :BREL 90 (Electric)
+STR_NAME_91					 :GEC "Intercity 225" (Electric)
+STR_NAME_92					 :Brush/ABB "92" (Dual Voltage)
+STR_NAME_BRCWTYPE3			 :BRCW Type 3 'Crompton' (Diesel Electric) 
+STR_NAME_SWTYPE1			 :Swindon Type 1 (Diesel)
+STR_NAME_GRONK				 :EE Shunter (Diesel Electric)
+STR_NAME_EETYPE1			 :EE Type 1 (Diesel Electric) 
+STR_NAME_EETYPE3			 :EE Type 3 (Diesel Electric)
+STR_NAME_EETYPE3_1			 :EE Type 3 (Diesel Electric){GOLD}(Phase 1)
+STR_NAME_EETYPE3_2			 :EE Type 3 (Diesel Electric){GOLD}(Phase 2)
+STR_NAME_EETYPE3_3			 :EE Type 3 (Diesel Electric){GOLD}(Subclass /4)
+STR_NAME_EETYPE3_4			 :EE Type 3 (Diesel Electric){GOLD}(Subclass /5)
+STR_NAME_EETYPE3_5			 :EE Type 3 (Diesel Electric){GOLD}(Subclass /6)
+STR_NAME_EETYPE3_6			 :EE Type 3 (Diesel Electric){GOLD}(Subclass /7)
+STR_NAME_EETYPE4			 :EE Whistler (Diesel Electric)
+STR_NAME_DELTIC			 	 :EE Deltic (Diesel Electric)
+STR_NAME_BRUSH_2			 :Brush Type 2 (Diesel Electric)
+STR_NAME_BRUSH_4			 :Brush Type 4 (Diesel Electric)
+STR_NAME_BRUSH_57			 :Brush "57" (Diesel Electric)
+STR_NAME_BRUSH_5			 :Brush Type 5 (Diesel Electric)
+STR_NAME_BRUSH_PEAK          :Sulzer Type 4 (Diesel Electric)
+STR_NAME_EEHOOVER            :EE Hoover (Diesel Electric)
+STR_NAME_HST                 :BREL HST (Diesel Electric)
+STR_NAME_HST2                :BREL HST (Diesel Electric){GOLD}(Buffered)
+STR_NAME_BREL56				 :BREL "56" (Diesel Electric)
+STR_NAME_BREL58				 :BREL "58" (Diesel Electric)
+STR_NAME_BREL69				 :BREL "69" (Diesel Electric)
+STR_NAME_SHED				 :EMD "Shed" (Diesel Electric)
+STR_NAME_SKIP				 :EMD "Skip" (Diesel Electric)
+STR_NAME_SHED_YEOMAN		 :EMD "Yeoman" (Diesel Electric)
+STR_NAME_POWERHAUL			 :GE Powerhaul (Diesel Electric)
+STR_NAME_UKLIGHT             :Stadler UK Light (Diesel Electric)
+STR_NAME_EURODUAL            :Stadler Euro Dual (Dual Mode)
+STR_NAME_EE73				 :English Electric "JB" (Dual Mode)
+STR_NAME_EE73_2				 :English Electric "GatEx" (3rd rail)
+STR_NAME_WESTERN			 :Swindon Western (Diesel Hydraulic)
+
+STR_NAME_NER_AUTOCAR		 :NER Autocar (Petrol Electric)
+STR_NAME_101				 :Metro-Cammell Regional DMU (Diesel)
+STR_NAME_115				 :BR (Derby) Suburban DMU (Diesel)
+STR_NAME_121				 :Pressed Steel Co./GRC&W "Bubble Car" (Diesel)
+STR_NAME_123				 :BR (Swindon) Intercity DMU (Diesel)
+STR_NAME_142				 :Leyland "Pacer" (Diesel)
+STR_NAME_201				 :BR Southern DEMU "Hastings" (Diesel Electric)
+STR_NAME_205				 :BR Southern DEMU "Thumper" (Diesel Electric)
+STR_NAME_207				 :BR Southern DEMU "Oxted" (Diesel Electric)
+STR_NAME_210				 :BR Western DEMU (Diesel Electric)
+STR_NAME_150_1				 :BREL Sprinter /0 & /1 (Diesel)
+STR_NAME_150_2				 :BREL Sprinter /2 (Diesel)
+STR_NAME_153				 :Leyland "Dogbox" (Diesel)
+STR_NAME_SUPER_SPRINTER		 :Metro-Cammel Super Sprinter (Diesel)
+STR_NAME_EXPRESS_SPRINTER    :BREL Express Sprinter (Diesel)
+STR_NAME_165				 :ABB "Networker Turbo" (Diesel)
+STR_NAME_195				 :CAF "Civity" (Diesel)
+STR_NAME_TURBOSTAR           :Bombardier Turbostar (Diesel)
+STR_NAME_VOYAGER             :Bombardier Voyager (Diesel Electric)
+STR_NAME_769         	     :Brush Flex (Dual Mode)
+
+STR_NAME_PEP				 :PEP 1972 Design EMU (Dual Voltage)
+STR_NAME_307				 :BREL Eastern Region Suburan EMU (Electric)
+STR_NAME_309				 :BR Mark 1 EMU (Electric)
+STR_NAME_313				 :BREL Second Generation EMU (Dual Voltage)
+STR_NAME_314				 :BREL Second Generation EMU (Electric)
+STR_NAME_317				 :BREL AC Express "Bed Pan" (Electric)
+STR_NAME_319                 :BREL Thameslink Classic (Dual Voltage)
+STR_NAME_321                 :BREL AC Express (Electric)
+STR_NAME_331				 :CAF "Civity" (Electric)
+STR_NAME_334				 :Alstom "Juniper" (Electric)
+STR_NAME_325				 :Metro-Cammel "Networker" (Dual Voltage)
+STR_NAME_325_2				 :ABB "325" (Dual Voltage)
+STR_NAME_345				 :Bombardier "Aventra" - High Density (Electric)
+STR_NAME_365				 :Metro-Cammel "Networker Express" (Electric)
+STR_NAME_350				 :Siemens "Desiro" (Electric)
+STR_NAME_373				 :GEC Alstom "Eurostar" (Electric)
+STR_NAME_375				 :Bombardier "Electrostar" (Dual Voltage)
+STR_NAME_376				 :Bombardier "Electrostar" - High Density (Dual Voltage)
+STR_NAME_377				 :Bombardier "Electrostar" (Dual Voltage)
+STR_NAME_387				 :Bombardier "Electrostar" - Express (Dual Voltage)
+STR_NAME_357				 :Adtranz "Electrostar" (Electric)
+STR_NAME_370				 :BREL Advanced Passenger Train (Electric)
+STR_NAME_390				 :Alstom "Pendolino" (Electric)
+STR_NAME_395				 :Hitachi High Speed "A-Train" (Dual Voltage)
+STR_NAME_411				 :BR Mark 1 EMU (3rd rail)
+STR_NAME_415				 :BR Compartment EMU (3rd rail)
+STR_NAME_442				 :BREL "Wessex Express" (3rd rail)
+STR_NAME_444				 :Siemens "Desiro" (3rd rail)
+STR_NAME_455				 :BREL Suburban EMU (3rd rail)
+STR_NAME_458				 :Alstom "Juniper" (3rd rail)
+STR_NAME_465				 :Metro-Cammel "Networker" (3rd rail)
+STR_NAME_700				 :Siemens "Desiro City" (Dual Voltage)
+STR_NAME_701				 :Bombardier "Aventra" (Third Rail)
+STR_NAME_710				 :Bombardier "Aventra" (Electric)
+STR_NAME_800				 :Hitachi High Speed "Intercity Express Train" (Dual Mode)
+
+STR_NAME_600				 :London Underground MU Carriage
+STR_NAME_LUL38				 :Metro-Cammel '38 Stock (4th rail)
+STR_NAME_LUL59				 :Metro-Cammel '59 Stock (4th rail)
+STR_NAME_LUL67				 :Metro-Cammel '67/'72/'73 Stock (4th rail)
+STR_NAME_LUL92				 :Adtranz '92 Stock (4th rail)
+STR_NAME_LUL95				 :GEC-Alsthom '95/'96 Stock (4th rail)
+STR_NAME_LUL09				 :Bombardier '09 Stock (4th rail)
+STR_NAME_LUL_A60			 :Cravens A60 Stock (4th rail)
+STR_NAME_LUL_C69			 :Metro-Cammel C69 Stock (4th rail)
+STR_NAME_LUL78				 :Metro-Cammel D78 Stock (4th rail)
+STR_NAME_LULS				 :Bombardier S Stock (3rd rail)
+
+STR_NAME_NRWGARRATT :Beyer-Garratt 2-4-2+2-4-2 (Steam)
+STR_NAME_FAIRLIE    :Double Fairlie 0-4-0+0-4-0 (Steam)
+
+STR_NAME_NRWCOACHONE:Ashbury Carriage
+STR_NAME_NRWCOACHTWO:Bristol Carriage
+STR_NAME_NRWSLATE   :Slate Wagon
+STR_NAME_NRWPLANK   :Plank Bulk Wagon
+STR_LIVERY_NRW_2TONE:Two-tone white and red
+STR_LIVERY_NRW_1TONE:Green
+
+STR_COLOUR_DKBLUE	:{BLUE}Dark blue
+STR_COLOUR_BLUE		:{LTBLUE}Blue
+STR_COLOUR_RED		:{RED}Red
+STR_COLOUR_GREEN	:{GREEN}Green
+STR_COLOUR_GREY		:Grey
+STR_COLOUR_BLACK	:{BLACK}Black
+STR_COLOUR_WHITE	:White
+STR_COLOUR_YELLOW	:{YELLOW}Yellow
+
+STR_COLOUR_WHITE_STRIPE	:White (with stripe)
+STR_COLOUR_BLACK_STRIPE	:{BLACK}Black {POP_COLOUR}(with stripe)
+
+STR_LIVERY_COMPANY	:"TTD"
+
+STR_DBSO_NO_COUPLE: You may only couple a DBSO/DVT at the back of another passenger locomotive from the "RUKTS" GRF!
+STR_DMMU_NO_COUPLE: You may only couple this train to a Blue Square Coupling Compatible DMU or a "Mark 1 Carriage"!
+STR_DMMU_MAIL_NO_COUPLE: You may only couple this train to a mail carrying Blue Square Coupling Compatible DMU or a "General Utility Van"!
+STR_142_NO_COUPLE: You may only couple this train to a "BREL Mark 2 Carriage" or another "Leyland "Pacer"!
+STR_165_NO_COUPLE: You may only couple this train to a "Modern MU car" or another ABB "Networker Turbo"!
+STR_205_NO_COUPLE: You may only couple this train to a "Mark 1 Carriage" or another BR Southern DEMU "Thumper"!
+STR_210_NO_COUPLE: You may only couple this train to a "Mark 3 Carriage" or another BR Western DEMU!
+STR_769_NO_COUPLE: You may only couple this train to a "Mark 3 Carriage" or another Brush Flex!
+STR_150_NO_COUPLE: You may only couple this train to a "Mark 3 Carriage" or another BREL Sprinter!
+STR_153_NO_COUPLE: You may only couple this train to a "Mark 3 Carriage" or another Leyland Dogbox!
+STR_155_NO_COUPLE: You may only couple this train to a "Mark 3 Carriage" or another Metro-Cammel Super Sprinter!
+STR_158_NO_COUPLE: You may only couple this train to a "Mark 3 Carriage" or another BREL Express Sprinter!
+STR_168_NO_COUPLE: You may only couple this train to a "Modern MU car" or another Bombardier Turbostar!
+STR_195_NO_COUPLE: You may only couple this train to a "Modern MU car" or another CAF "Civity" (Diesel)!
+STR_220_NO_COUPLE: You may only couple this train to a "Modern MU car" or another Bombardier Voyager!
+STR_307_NO_COUPLE: You may only couple this train to a "Mark 1 Carriage" or another BREL Eastern Region Suburan EMU (Electric)!
+STR_309_NO_COUPLE: You may only couple this train to a "Mark 1 Carriage" or another BR Mark 1 EMU (Electric)!
+STR_313_NO_COUPLE: You may only couple this train to a "Mark 2 Carriage" or another BREL Second Gereration EMU!
+STR_317_NO_COUPLE: You may only couple this train to a "Mark 3 Carriage" or another BREL "Bed-Pan"!
+STR_319_NO_COUPLE: You may only couple this train to a "Mark 3 Carriage" or another BREL Thameslink Classic!
+STR_321_NO_COUPLE: You may only couple this train to a "Mark 3 Carriage" or another BREL AC Express (Electric)!
+STR_331_NO_COUPLE: You may only couple this train to a "Modern MU car" or another CAF "Civity" (Electric)!
+STR_345_NO_COUPLE: You may only couple this train to a "Modern MU car" or another Bombardier "Aventra" of the same type!
+STR_375_NO_COUPLE: You may only couple this train to a "Modern MU car" or another Bombardier "Electrostar" (Dual Voltage)!
+STR_376_NO_COUPLE: You may only couple this train to a "Modern MU car" or another Bombardier "Electrostar" - Suburban (Dual Voltage)!
+STR_357_NO_COUPLE: You may only couple this train to a "Modern MU car" or another Adtranz "Electrostar" (Electric)!
+STR_411_NO_COUPLE: You may only couple this train to a "Mark 1 Carriage",  BR Compartment EMU (3rd rail) or another BR Mark 1 EMU (3rd rail)!
+STR_415_NO_COUPLE: You may only couple this train to a "Mark 1 Carriage", BR Mark 1 EMU (3rd rail) or another BR Compartment EMU (3rd rail)!
+STR_442_NO_COUPLE: You may only couple this train to a "Mark 3 Carriage" or another BREL "Wessex Express"!
+STR_350_NO_COUPLE: You may only couple this train to a "Modern MU car" or another Siemens "Desiro" (Dual Voltage)!
+STR_325_NO_COUPLE: You may only couple this train to a "Modern MU car" or another Adtranz "Networker"!
+STR_MU90_NO_COUPLE: You may only couple this train to a correct MU!
+STR_LUL_NO_COUPLE: You may only couple this train to a "London Underground MU Carriage", or London Underground MU of the same type!
+STR_WRONG_JUNIPER_CANNOT_START: You need to refit this train to a correct version for the track type!
+STR_MORE_CARRIAGES_NEEDED: You need to add more carriages before this train can leave (at least one between each pair of engines)!
+STR_MORE_CARRIAGES_NEEDED_APT: You need to add more carriages before this train can leave (at least 4 between each pair of engines)!
+STR_UNIQUE_NO_COUPLE: You may only couple this train to a "{STRING}" or another {STRING}!
+
+STR_NAAN_NAME         :Narrow Gauge Rails
+STR_NAAN_BUILD_NAME   :Narrow Gauge Construction
+STR_NAAN_REPLACE_NAME :Replace with Narrow Gauge
+STR_NAAN_NEW_TRAIN    :Looksie here! A new train built for Narrow Gauge!
+
+
+
+
+STR_NAME_MLV_ALT			:BR Class 419 (3rd rail)
+STR_NAME_DBSO_ALT			:BREL DBSO
+
+STR_NAME_MR_1377_ALT				:MR 1377 Class (Steam)
+STR_NAME_MR_115_ALT					:MR 115 Class (Steam)
+STR_NAME_LBSC_E4_ALT				:LB&SCR E4 Class (Steam)
+STR_NAME_NELSON_ALT					:SR Lord Nelson (Steam)
+STR_NAME_MERCHNAV_ALT				:SR Merchant Navy (Steam)
+STR_NAME_MERCHNAV_REBUILT_ALT		:BR Rebuilt Merchant Navy (Steam)
+STR_NAME_BULLEID_LIGHT_ALT			:SR Light Pacific (Steam)
+STR_NAME_BULLEID_LIGHT_REBUILT_ALT	:BR Rebuilt Light Pacific (Steam)
+STR_NAME_BULLEID_Q1_ALT				:SR Q1 Class (Steam)
+STR_NAME_GWR_1361_ALT				:GWR 1361 Class (Steam)
+STR_NAME_GWR_SADDLE_ALT				:Avonside Saddle Tank (Steam)
+STR_NAME_GWR_BUFFALO_ALT			:GWR 1076 Buffalo (Steam)
+STR_NAME_CORONATION_ALT				:LMS Coronation Class (Steam)
+
+STR_NAME_AL6_ALT			:BR Class 86 (Electric)
+STR_NAME_87_ALT				:BR Class 87 (Electric)
+STR_NAME_90_ALT				:BR Class 90 (Electric)
+STR_NAME_91_ALT				:BR Class 91 (Electric)
+STR_NAME_92_ALT				:BR Class 92 (Dual Voltage)
+STR_NAME_BRCWTYPE3_ALT		:BR Class 33 (Diesel Electric) 
+STR_NAME_SWTYPE1_ALT		:BR Class 14 (Diesel Hydraulic)
+STR_NAME_GRONK_ALT			:BR Class 08/09/10/11/12 (Diesel Electric)
+STR_NAME_EETYPE1_ALT		:BR Class 20 (Diesel Electric) 
+STR_NAME_EETYPE3_ALT		:BR Class 37 (Diesel Electric) 
+STR_NAME_EETYPE3_1_ALT		:BR Class 37 (Diesel Electric){GOLD}(Phase 1)
+STR_NAME_EETYPE3_2_ALT		:BR Class 37 (Diesel Electric){GOLD}(Phase 2)
+STR_NAME_EETYPE3_3_ALT		:BR Class 37 (Diesel Electric){GOLD}(Subclass /4)
+STR_NAME_EETYPE3_4_ALT		:BR Class 37 (Diesel Electric){GOLD}(Subclass /5)
+STR_NAME_EETYPE3_5_ALT		:BR Class 37 (Diesel Electric){GOLD}(Subclass /6)
+STR_NAME_EETYPE3_6_ALT		:BR Class 37 (Diesel Electric){GOLD}(Subclass /7)
+STR_NAME_EETYPE4_ALT		:BR Class 40 (Diesel Electric)
+STR_NAME_DELTIC_ALT			:BR Class 55 (Diesel Electric)
+STR_NAME_BRUSH_2_ALT		:BR Class 31 (Diesel Electric)
+STR_NAME_BRUSH_4_ALT		:BR Class 47 (Diesel Electric)
+STR_NAME_BRUSH_57_ALT		:BR Class 57 (Diesel Electric)
+STR_NAME_BRUSH_5_ALT		:BR Class 60 (Diesel Electric)
+STR_NAME_BRUSH_PEAK_ALT		:BR Class 44/45/46 (Diesel Electric)
+STR_NAME_EEHOOVER_ALT		:BR Class 50 (Diesel Electric)
+STR_NAME_HST_ALT			:BR Class 43 (Diesel Electric)
+STR_NAME_HST2_ALT			:BR Class 43 (Diesel Electric){GOLD}(Buffered)
+STR_NAME_BREL58_ALT			:BR Class 58 (Diesel Electric)
+STR_NAME_BREL56_ALT			:BR Class 56 (Diesel Electric)
+STR_NAME_BREL69_ALT			:BR Class 69 (Diesel Electric)
+STR_NAME_SHED_ALT			:BR Class 66 (Diesel Electric)
+STR_NAME_SKIP_ALT			:BR Class 67 (Diesel Electric)
+STR_NAME_SHED_YEOMAN_ALT	:BR Class 59 (Diesel Electric)
+STR_NAME_POWERHAUL_ALT		:BR Class 70 (Diesel Electric)
+STR_NAME_UKLIGHT_ALT		:BR Class 68 (Diesel Electric)
+STR_NAME_EURODUAL_ALT 		:BR Class 88 (Dual Mode)
+STR_NAME_EE73_ALT			:BR Class 73 (Dual Mode)
+STR_NAME_EE73_2_ALT			:BR Class 73 + BR Class 489 (3rd rail)
+STR_NAME_WESTERN_ALT		:BR CLass 52 (Diesel Hydraulic)
+
+STR_NAME_101_ALT				:BR Class 101 (Diesel)
+STR_NAME_115_ALT				:BR Class 115 (Diesel)
+STR_NAME_121_ALT				:BR Class 121/128 (Diesel)
+STR_NAME_123_ALT				:BR Class 123 (Diesel)
+STR_NAME_142_ALT				:BR Class 142/143/144 (Diesel)
+STR_NAME_201_ALT				:BR Class 201 (Diesel Electric)
+STR_NAME_205_ALT				:BR Class 205 (Diesel Electric)
+STR_NAME_207_ALT				:BR Class 207 (Diesel Electric)
+STR_NAME_210_ALT				:BR Class 210 (Diesel Electric)
+STR_NAME_150_1_ALT				:BR Class 150/0 & 150/1 (Diesel)
+STR_NAME_150_2_ALT				:BR Class 150/2 (Diesel)
+STR_NAME_153_ALT			 	:BR Class 153 (Diesel)
+STR_NAME_SUPER_SPRINTER_ALT		:BR Class 155/156 (Diesel)
+STR_NAME_EXPRESS_SPRINTER_ALT	:BR Class 158/159 (Diesel)
+STR_NAME_165_ALT				:BR Class 165/166 (Diesel)
+STR_NAME_195_ALT				:BR Class 195 (Diesel)
+STR_NAME_TURBOSTAR_ALT			:BR Class 168/170/171/172 (Diesel)
+STR_NAME_VOYAGER_ALT			:BR Class 220/221/222 (Diesel Electric)
+STR_NAME_769_ALT       	     	:BR Class 769 (Dual Mode)
+
+STR_NAME_PEP_ALT			:PEP 1972 Design EMU (Dual Voltage)
+STR_NAME_307_ALT			:BR Class 307 (Electric)
+STR_NAME_309_ALT			:BR Class 309 (Electric)
+STR_NAME_313_ALT			:BR Class 313/507/508 (Dual Voltage)
+STR_NAME_314_ALT			:BR Class 314/315 (Electric)
+STR_NAME_317_ALT			:BR Class 317/318 (Electric)
+STR_NAME_319_ALT			:BR Class 319 (Dual Voltage)
+STR_NAME_321_ALT            :BR Class 320/321/322 (Electric)
+STR_NAME_331_ALT            :BR Class 331 (Electric)
+STR_NAME_334_ALT            :BR Class 334 (Electric)
+STR_NAME_325_ALT			:BR Class 325/365/465 (Dual Voltage)
+STR_NAME_325_2_ALT			:BR Class 325 (Dual Voltage)
+STR_NAME_345_ALT			:BR Class 345 (Electric)
+STR_NAME_350_ALT			:BR Class 350/360 (Electric)
+STR_NAME_365_ALT			:BR Class 365 (Electric)
+STR_NAME_373_ALT			:BR Class 373 (Electric)
+STR_NAME_375_ALT			:BR Class 375/377/379/387 (Dual Voltage)
+STR_NAME_376_ALT			:BR Class 376/378 (Dual Voltage)
+STR_NAME_377_ALT			:BR Class 375/377/379 (Dual Voltage)
+STR_NAME_387_ALT			:BR Class 387 (Dual Voltage)
+STR_NAME_357_ALT			:BR Class 357 (Electric)
+STR_NAME_370_ALT			:BR Class 370 (Electric)
+STR_NAME_390_ALT			:BR Class 390 (Electric)
+STR_NAME_395_ALT			:BR Class 395 (Dual Voltage)
+STR_NAME_411_ALT			:BR Class 411 (3rd rail)
+STR_NAME_415_ALT			:BR Class 415 (3rd rail)
+STR_NAME_442_ALT			:BR Class 442 (3rd rail)
+STR_NAME_444_ALT			:BR Class 444/450 (3rd rail)
+STR_NAME_455_ALT			:BR Class 455 (3rd rail)
+STR_NAME_458_ALT			:BR Class 458/460 (3rd rail)
+STR_NAME_465_ALT			:BR Class 465/466 (3rd rail)
+STR_NAME_700_ALT			:BR Class 700/707/717 (Dual Voltage)
+STR_NAME_701_ALT			:BR Class 701 (Third Rail)
+STR_NAME_710_ALT			:BR Class 710/720/730 (Electric)
+STR_NAME_800_ALT            :BR Class 800/801/802/803 (Dual Mode)
+
+
+
+STR_NAME_LUL38_ALT			 :LU '38 Stock (4th rail)
+STR_NAME_LUL59_ALT			 :LU '59 Stock (4th rail)
+STR_NAME_LUL67_ALT			 :LU '67/'72/'73 Stock (4th rail)
+STR_NAME_LUL92_ALT			 :LU '92 Stock (4th rail)
+STR_NAME_LUL95_ALT			 :LU '95/'96 Stock (4th rail)
+STR_NAME_LUL09_ALT			 :LU '09 Stock (4th rail)
+STR_NAME_LUL_A60_ALT		 :LU A60 Stock (4th rail)
+STR_NAME_LUL_C69_ALT		 :LU C69 Stock (4th rail)
+STR_NAME_LUL78_ALT			 :LU D78 Stock (4th rail)
+STR_NAME_LULS_ALT			 :LU S Stock (3rd rail)
+
+STR_ADD_INFO_88				:Power on diesel: {GOLD}746 kW / 1000 hp
+STR_ADD_INFO_PUSHPULL		:Add ONE of these to the end of your train to create a push/pull set (certain locomotives){}{RED}WARNING{BLACK}: Adding more than one of these to a consist may result in odd graphical behaviour and is not recommended.
+STR_ADD_INFO_73				:Power on diesel: {GOLD}450 kW / 600 hp
+
+
+
+STR_LENGTH		: LENGTH {STRING}
+STR_1			: 1
+STR_2			: 2
+STR_3			: 3
+STR_4			: 4
+STR_5			: 5
+STR_6			: 6
+STR_7			: 7
+STR_8			: 8
+
+

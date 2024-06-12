@@ -353,9 +353,9 @@ STR_NAME_MK2F					:{GOLD}(Mk2f)
 STR_NAME_Mk3					:Voiture BREL Mark 3
 STR_NAME_Mk4					:Voiture BREL Mark 4
 STR_NAME_MU90					:Voiture d'automotrice moderne
-STR_NAME_WAGON_A                :BR Bulk Goods Wagon
-STR_NAME_FLASK      			:Nuclear Flask Wagon
-STR_NAME_INTERMODAL             :Intermodal Container Wagon
+STR_NAME_WAGON_A                :Wagon-trémie BR
+STR_NAME_FLASK      			:Wagon nucléaire
+STR_NAME_INTERMODAL             :Wagon de conteneurs
 STR_NAME_MONSTER_BOX			:Monster Box 
 STR_NAME_MWA					:Monster Box {GOLD}(MWA)
 STR_NAME_JNA					:Monster Box {GOLD}(JNA)
@@ -365,30 +365,30 @@ STR_NAME_RRV					:Lowmac
 STR_NAME_PXA					:Speedlink Flat Wagon
 STR_NAME_HAB					:Speedlink Habfis Van
 STR_NAME_HAZ					:Hazardous Goods Wagon
-STR_NAME_ZCO					:Wood 5 Plank Open Wagon
-STR_NAME_ZGO					:Wood 7 Plank Open Wagon
-STR_NAME_MDO					:Steel Open Wagon
-STR_NAME_MCO					:Steel Open Wagon (BR)
-STR_NAME_CGO					:Riveted Covered Hopper
-STR_NAME_CHV					:Welded Covered Hopper
-STR_NAME_HTO					:Riveted Hopper
-STR_NAME_HHA					:HHA Hopper
-STR_NAME_SSA					:Scrap Hopper
-STR_NAME_PGA					:PGA Hopper
-STR_NAME_ZZA					:ZZA Tanker
-STR_NAME_PCA					:PCA Tanker
-STR_NAME_TEA					:TEA Tanker
-STR_NAME_CUBE					:General Goods Van
-STR_NAME_QPV					:XP Luggage Van
-STR_NAME_RBX					:Speedlink Van
-STR_NAME_GUV					:General Utility Van
-STR_NAME_NTX					:Express Mail Carriage
-STR_NAME_MGR					:MGR Hopper
-STR_NAME_CDA					:MGR Covered Hopper
-STR_NAME_STEEL_TANK				:Steel Tanker
-STR_NAME_ZRV					:ZRV Tanker
-STR_NAME_UCV					:China Clay Wagon
-STR_NAME_FQA					:Cartic
+STR_NAME_ZCO					:Wagon ouvert en bois 5 planches
+STR_NAME_ZGO					:Wagon ouvert en bois 7 planches
+STR_NAME_MDO					:Wagon ouvert en acier
+STR_NAME_MCO					:Wagon ouvert en acier (BR)
+STR_NAME_CGO					:Wagon-trémie couvert revétu
+STR_NAME_CHV					:Wagon-trémie couvert soudé
+STR_NAME_HTO					:Wagon-trémie revétu
+STR_NAME_HHA					:Trémie HHA
+STR_NAME_SSA					:Trémie à ferraille
+STR_NAME_PGA					:Trémie PGA
+STR_NAME_ZZA					:Wagon-citerne ZZA
+STR_NAME_PCA					:Wagon-citerne PCA
+STR_NAME_TEA					:Wagon-citerne TEA
+STR_NAME_CUBE					:Wagon de marchandises générales
+STR_NAME_QPV					:Fourgon à bagages XP
+STR_NAME_RBX					:Fourgon Speedling
+STR_NAME_GUV					:Fourgon d'utilité générale
+STR_NAME_NTX					:Wagon de courrier express
+STR_NAME_MGR					:Trémie MGR
+STR_NAME_CDA					:Trémie couverte MGR
+STR_NAME_STEEL_TANK				:Wagon-citerne en acier
+STR_NAME_ZRV					:Wagon-citerne ZRV
+STR_NAME_UCV					:Wagon d'argile chinoise
+STR_NAME_FQA					:Wagon porte-autos
 STR_NAME_POL					:Polybulk Hopper
 STR_NAME_OBA					:Log Wagon
 STR_NAME_JHA					:Aggregates Hopper

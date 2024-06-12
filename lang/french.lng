@@ -13,53 +13,53 @@ STR_PARAM_LIVERY_CHOICE_NAME		:Choisir les livrées manuellement
 STR_PARAM_LIVERY_CHOICE_DESC		:Les livrées sont choisies avec le menu de réaménagement au lieu de changer en fonction de l'année.
 
 STR_PARAM_ALT_NAMES_NAME			:Utiliser la classe
-STR_PARAM_ALT_NAMES_DESC			:Use the names of the classes of train instead of the manufacturers name.
+STR_PARAM_ALT_NAMES_DESC			:Utilise le numéro de la classe du train au lieu du nom commercial.
 
-STR_PARAM_PURCHASE_COST				:Purchase cost factor
-STR_PARAM_PURCHASE_COST_DESC		:Changes the cost of purchasing new trains from this GRF
-STR_PARAM_RUNNING_COST				:Running cost factor
-STR_PARAM_RUNNING_COST_DESC			:Changes the running cost of trains from this GRF
+STR_PARAM_PURCHASE_COST				:Facteur du coût d'achat
+STR_PARAM_PURCHASE_COST_DESC		:Change le coût d'achat de nouveaux trains de ce GRF
+STR_PARAM_RUNNING_COST				:Facteur du coût de fonctionnement
+STR_PARAM_RUNNING_COST_DESC			:Change le coût de fonctionnement des trains de ce GRF
 
 STR_PARAM_LOW						:1/2
 STR_PARAM_MEDIUM					:Normal
 STR_PARAM_HIGH						:2x
 STR_PARAM_TOOMUCH					:4x
 
-STR_PARAM_PURCHASE_LIST_SORT_NAME	:Sort by Class numbers
-STR_PARAM_PURCHASE_LIST_SORT_DESC	:Sort the purchase list by TOPS Class numbers instead of the classic sort
+STR_PARAM_PURCHASE_LIST_SORT_NAME	:Trier par classe
+STR_PARAM_PURCHASE_LIST_SORT_DESC	:Trie la liste d'achat par classe au lieu du tri classique
 
-STR_PARAM_PROTOTYPES				:Prototype vehicles
-STR_PARAM_PROTOTYPES_DESC			:Enable trains that never went into full production (e.g. the Class 210 or the Class 370 "APT"). 
+STR_PARAM_PROTOTYPES				:Prototypes
+STR_PARAM_PROTOTYPES_DESC			:Active les trains qui n'ont jamais été produits en série (exemple{NBSP}: la Class 210 et la Class 370 "APT"). 
 
-STR_SOUND_CONTROL					:Sound effects
-STR_SOUND_CONTROL_DESC				:Select the types of sounds used by trains in this set
+STR_SOUND_CONTROL					:Effets sonores
+STR_SOUND_CONTROL_DESC				:Choisit le type de sons utilisés par les trains de ce GRF
 
-STR_PARAM_NONE						:No running sounds
-STR_PARAM_DEFAULT					:Default running sounds
-STR_PARAM_CUSTOM					:Fully replaced running sounds
-
-
-STR_PARAM_VEH_SELEC_NAME         		 	:Vehicle selection
-STR_PARAM_VEH_SELEC_DESC         		 	:Choose the selection of vehicles that will appear in game. Minimal reduces the purchase list to a basic list of vehicles, Extended includes some extras that are extensions to the normal set.
-STR_PARAM_VEH_SELEC_CHOICE_ONE   		 	:Minimal
-STR_PARAM_VEH_SELEC_CHOICE_TWO   		 	:Limited
-STR_PARAM_VEH_SELEC_CHOICE_THREE 		 	:Normal
-STR_PARAM_VEH_SELEC_CHOICE_FOUR  		 	:Extended
-
-STR_PARAM_STEAM_SELEC_NAME         		 	:Steam era vehicle selection
-STR_PARAM_STEAM_SELEC_DESC         		 	:Choose the selection of steam locomotives that will appear in game. Limited reduces the purchase list to a basic list of steam locomotives, Kettle Enthusiast includes some extras that are extensions to the normal set.
-STR_PARAM_STEAM_SELEC_CHOICE_ONE   		 	:Limited
-STR_PARAM_STEAM_SELEC_CHOICE_TWO   		 	:Normal
-STR_PARAM_STEAM_SELEC_CHOICE_THREE 		 	:Tea Enjoyer
-STR_PARAM_STEAM_SELEC_CHOICE_FOUR  		 	:Kettle Enthusiast
+STR_PARAM_NONE						:Aucun son
+STR_PARAM_DEFAULT					:Sons par défaut
+STR_PARAM_CUSTOM					:Sons complètement remplacés
 
 
-STR_BLUE_SQUARE					 			:{BLUE}Blue Square Coupling Compatibility
+STR_PARAM_VEH_SELEC_NAME         		 	:Quantité de trains
+STR_PARAM_VEH_SELEC_DESC         		 	:Choisit la quantité de train qui apparaîtront en jeu. Minimale réduit la liste de trains à une liste basique, Étendue inclut des trains supplémentaires qui sont des extensions du pack normal.
+STR_PARAM_VEH_SELEC_CHOICE_ONE   		 	:Minimale
+STR_PARAM_VEH_SELEC_CHOICE_TWO   		 	:Limitée
+STR_PARAM_VEH_SELEC_CHOICE_THREE 		 	:Normale
+STR_PARAM_VEH_SELEC_CHOICE_FOUR  		 	:Étendue
+
+STR_PARAM_STEAM_SELEC_NAME         		 	:Quantité de locomotives à vapeur
+STR_PARAM_STEAM_SELEC_DESC         		 	:Choisit la quantité de locomotives qui apparaîtront en jeu. Limitée réduit la liste de locomotives à une liste basique, Passionné de bouilloires inclut des trains supplémentaires qui sont des extensions du pack normal.
+STR_PARAM_STEAM_SELEC_CHOICE_ONE   		 	:Limitée
+STR_PARAM_STEAM_SELEC_CHOICE_TWO   		 	:Normale
+STR_PARAM_STEAM_SELEC_CHOICE_THREE 		 	:Amateur de thé
+STR_PARAM_STEAM_SELEC_CHOICE_FOUR  		 	:Passionné de bouilloires
 
 
-STR_LIVER_COMP_COLOURS						: Company colours
-STR_LIVER_COMP_COLOURS_A					: Company colours (Mark 2a)
-STR_LIVER_COMP_COLOURS_F					: Company colours (Mark 2f)
+STR_BLUE_SQUARE					 			:{BLUE}Couplage bleu carré
+
+
+STR_LIVER_COMP_COLOURS						: Couleurs de l'entreprise
+STR_LIVER_COMP_COLOURS_A					: Couleurs de l'entreprise (Mark 2a)
+STR_LIVER_COMP_COLOURS_F					: Couleurs de l'entreprise (Mark 2f)
 
 
 STR_170										:(Class 170)
@@ -79,15 +79,15 @@ STR_LIVERY_ATW_EXEC              			: Arriva Trains Wales {GOLD}(Executive)
 STR_LIVERY_ATW_REFURB            			: Arriva Trains Wales {GOLD}(Refurbished)
 STR_LIVERY_AVANTI				 			: Avanti West Coast
 STR_LIVERY_AVON								: Avonside {GOLD}(Trojan)
-STR_LIVERY_BARRIER							: Barrier Coach {GOLD}(Blue)
+STR_LIVERY_BARRIER							: Barrier Coach {GOLD}(Bleu)
 STR_LIVERY_BLUE_PULLMAN						: Blue Pullman
 STR_LIVERY_BOURNEMOUTH						: 73235 SWR Blue "71B"
-STR_LIVERY_BRBLUE				 			: British Railways {GOLD}(Blue)
-STR_LIVERY_BRBLUE_HALF_YELLOW				: British Railways {GOLD}(Blue with Small Yellow Panel)
-STR_LIVERY_BRBLUEGREY			 			: British Railways {GOLD}(Blue and Grey)
-STR_LIVERY_BRBLUEGREY_REFURB	 			: British Railways {GOLD}(Refurbished Blue and Grey)
-STR_LIVERY_BRBLUE_LOGO           			: British Railways Large Logo {GOLD}(Blue)
-STR_LIVERY_BRBLUE_REFURB_DMU	 			: British Railways Blue {GOLD}(Refurbished White & Blue)
+STR_LIVERY_BRBLUE				 			: British Railways {GOLD}(Bleu)
+STR_LIVERY_BRBLUE_HALF_YELLOW				: British Railways {GOLD}(Bleu avec panneau jaune)
+STR_LIVERY_BRBLUEGREY			 			: British Railways {GOLD}(Bleu et gris)
+STR_LIVERY_BRBLUEGREY_REFURB	 			: British Railways {GOLD}(Bleu et gris rénové)
+STR_LIVERY_BRBLUE_LOGO           			: British Railways Large Logo {GOLD}(Bleu)
+STR_LIVERY_BRBLUE_REFURB_DMU	 			: British Railways Blue {GOLD}(Blan et bleu rénové)
 STR_LIVERY_BRBLUE_SPT			 			: British Railways Strathclyde Partnership for Transport
 STR_LIVERY_BRBLUE_SUBTYPE		 			: British Railways Blue {STRING}
 STR_LIVERY_BRELECTRIC            			: British Railways {GOLD}(Electric Blue)
@@ -108,15 +108,15 @@ STR_LIVERY_CENTRAL               			: Central Trains
 STR_LIVERY_CENTRAL_EX_M           			: Central Trains (Ex-MML)
 STR_LIVERY_CHILTERN				 			: Chiltern Railways
 STR_LIVERY_CHILTERN_0				 		: Chiltern Railways {GOLD}(168/0)
-STR_LIVERY_CHILTERN_G						: Chiltern Railways {GOLD}(Grey)
+STR_LIVERY_CHILTERN_G						: Chiltern Railways {GOLD}(Gris)
 STR_LIVERY_CHOCOLATE_CREAM		 			: British Railways "Chocolate"
 STR_LIVERY_CIVIL_ENGINEERS					: Civil Engineer's "Dutch"
 STR_LIVERY_COLAS				 			: Colas Rail
 STR_LIVERY_CONNEX				 			: Connex
-STR_LIVERY_COTSWOLD							: Cotswold Rail {GOLD}(Grey)
+STR_LIVERY_COTSWOLD							: Cotswold Rail {GOLD}(Gris)
 STR_LIVERY_CRIMSON_CREAM		 			: British Railways "Crimson"
 STR_LIVERY_DBCARGO               			: DB Cargo UK
-STR_LIVERY_DBCARGO_GREEN           			: DB Cargo UK {GOLD}("Climate Hero" Green)
+STR_LIVERY_DBCARGO_GREEN           			: DB Cargo UK {GOLD}(Vert "Climate Hero")
 STR_LIVERY_DBSCHENKER            			: DB Schenker Rail UK
 STR_LIVERY_DCR_GREEN						: Devon & Cornwall Railways {GREEN}(Green)
 STR_LIVERY_DCR_GREY							: Devon & Cornwall Railways {GREEN}(Grey)

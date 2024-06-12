@@ -1,0 +1,45 @@
+##grflangid 0x01
+
+STR_GRF_NAME        :Representative UK Train Set - Extention
+STR_GRF_DESC        :{GOLD}Un addon pour le GRF RUKTS qui ajoute un site de traitement des déchets nucléaires aux industries du jeu.{}Graphiques par de nombreux artistes de ISR, OpenGFX et l'équipe de RUKTS. Programmé par {RED}UnholyPhish {GOLD}et {PURPLE}Gwyd{GOLD}.
+
+STR_NUCLEAR_ENABLED_NAME		:Industries nucléaires
+STR_NUCLEAR_ENABLED_DESC		:Activer cette option permet l'apparition de mines d'uranium et de sites de traitements des déchets nucléaires en jeu, et modifie la centrale électrique. {}{RED}ATTENTION: NE CHANGEZ PAS CE PARAMÈTRE PENDANT UNE PARTIE{NBSP}!
+
+STR_NARROW_GAUGE_ENABLED_NAME	:Voies à écartement étroit
+STR_NARROW_GAUGE_ENABLED_DESC	:Active les voies ferroviaires étroites en jeu. {}{RED}ATTENTION: NE CHANGEZ PAS CE PARAMÈTRE PENDANT UNE PARTIE{NBSP}!
+
+STR_NWST_NAME           :Déchets nucléaires
+STR_NWST_ITEMS_OF_CARGO :{COMMA} tonnes de déchets nucléaires
+STR_NWST_ABBREV         :{TINYFONT}NW
+
+STR_URAN_NAME           :Uranium
+STR_URAN_ITEMS_OF_CARGO :{COMMA} tonnes d'uranium
+STR_URAN_ABBREV         :{TINYFONT}UR
+
+STR_POWER_STATION_STATION_NAME :{STRING} Centrale électrique
+STR_NUCPROC_STATION_NAME       :{STRING} Site de traitement des déchets nucléaires
+STR_URANMINE_STATION_NAME      :{STRING} Mine d'uranium
+STR_NUCPROC_NAME               :Site de traitement des déchets nucléaires
+STR_URANMINE_NAME              :Mine d'uranium
+STR_ERROR_NOT_NEAR_WATER       :Cette industrie doit être construite à moins de 32 cases d'une case d'eau.
+
+
+STR_NAAN_NAME         :Voie étroite
+STR_NAAN_BUILD_NAME   :Construction d'une voie étroite
+STR_NAAN_REPLACE_NAME :Remplacer par une voie étroite
+STR_NAAN_NEW_TRAIN    :Regardez{NBSP}! Un nouveau train pour voie étroite{NBSP}!
+
+
+STR_LIVERY_NSE					 		 : Network South East
+STR_LIVERY_CONNEX				 		 : Connex
+STR_LIVERY_SWT					 		 : South West Trains
+STR_LIVERY_SOUTHERN	             		 : Southern
+STR_LIVERY_LO							 : London Overground
+
+
+STR_NAME_456			:BR Class 456 (Troisième rail)
+STR_NAME_458			:BR Class 458 (Troisième rail)
+STR_NAME_378_3			:BR Class 378 (Bi-courant, 3 Voitures)
+STR_NAME_378_4			:BR Class 378 (Bi-courant, 4 Voitures)
+STR_NAME_378_5			:BR Class 378 (Bi-courant, 5 Voitures)
